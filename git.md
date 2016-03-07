@@ -1,0 +1,7 @@
+"git status (shows status of file, what changes are waiting to be commited)"
+"git init (creates a local repo to track changes)"
+"git add (adds the current version of a file to staging area"
+"git commit (adds the version in the staging area to final changes)"
+"git reset (looks at previous versions and can change file back to a previous version)"
+"git checkout (looks at previous versions)"
+"git log (look at commits that have been made)"
