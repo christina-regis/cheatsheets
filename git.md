@@ -6,3 +6,12 @@
 "git checkout (looks at previous versions)"
 "git log (look at commits that have been made)"
 "git diff (look at differences between versions)"
+fork (on github makes a copies to make changes on)
+git clone (takes the repote repo and clones in on your computer,copy and past url)
+git push (push file to github) (git push origin master)
+git pull (pull recent changes from clones/forked repo) (git pull upstream master)
+pull request (have adminstrator pull changes to adminstrator) 
+git to github (pull, push, clone,)
+git add, commit
+git status
+git log --oneline
